@@ -1,1 +1,3 @@
 catboost
+numpy>=1.22.0  # Assuming you choose NumPy 1.22.0 or higher
+pandas  # Add other dependencies as needed
